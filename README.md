@@ -9,6 +9,10 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat&logo=github)
 ![Stars](https://img.shields.io/github/stars/togg53192-cmd/jailbreaks?style=flat&logo=github&color=yellow)
 
+<p align="center">
+ <a href="https://www.star-history.com/togg53192-cmd/jailbreaks"><img src="https://api.star-history.com/badge?repo=togg53192-cmd/jailbreaks&type=rank&theme=dark" alt="Star History Rank" /> <img src="https://api.star-history.com/badge?repo=togg53192-cmd/jailbreaks&type=trending&theme=dark" alt="GitHub Trending Repository of the Day" /></a>
+</p>
+
 </div>
 
 ---
@@ -104,13 +108,13 @@ The collection covers:
 | Model | File | Type |
 |---|---|---|
 | **Gemma 4** | [gemma4.md](./Google/gemma4.md) | Ollama Modelfile |
+| **Gemini 4 Argon** | [Gemini-4-Argon.md](./Google/Gemini-4-Argon.md) | Operating policy |
+| **Gemini 3.1 Pro** | [Gemini-3.1-Pro.md](./raghavraut/gemini-3.1-pro.md) | System prompt |
 
 ### Mistral / Alibaba
 
 | Model | File | Type |
 |---|---|---|
-| **Gemini 4 Argon** | [Gemini-4-Argon.md](./Google/Gemini-4-Argon.md) | Operating policy |
-| **Gemini 3.1 Pro** | [Gemini-3.1-Pro.md](./raghavraut/gemini-3.1-pro.md) | System prompt |
 | **Mistral Large 4** | [Mistral-Large-4.md](./Mistral/Mistral-Large-4.md) | Agent system prompt |
 | **Qwen 3.7** | [qwen-3.7.md](./Alibaba/qwen-3.7.md) | System prompt |
 | **Qwen 3.8** | [qwen-3.8.md](./Alibaba/qwen-3.8.md) | System prompt |
@@ -209,6 +213,16 @@ A good contribution should follow these conventions:
    Avoid claiming compatibility with versions or models that have not been tested.
 
 Found something that no longer behaves as documented? Opening an issue with the model, version, and affected file is already useful.
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=togg53192-cmd%2Fjailbreaks&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=togg53192-cmd/jailbreaks&type=date&theme=dark&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=togg53192-cmd/jailbreaks&type=date&logscale&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=togg53192-cmd/jailbreaks&type=date&logscale&legend=top-left" />
+ </picture>
+</a>
 
 ## Disclaimer
 
